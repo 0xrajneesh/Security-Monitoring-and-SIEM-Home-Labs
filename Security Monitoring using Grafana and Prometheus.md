@@ -51,7 +51,7 @@ To create a home lab using Grafana and Prometheus for monitoring the security of
    wget https://github.com/grafana/loki/releases/download/v2.10.0/loki-linux-amd64.zip
    unzip loki-linux-amd64.zip
    sudo mv loki-linux-amd64 /usr/local/bin/loki
-  ```
+  ``
 2. Create a Loki configuration file:
 ```
 sudo nano /etc/loki-config.yml
