@@ -79,6 +79,9 @@ To set up a Security Monitoring Home Lab using the ELK Stack (Elasticsearch, Log
    - Generate sample logs on the agent server (e.g., system logs, application logs).  
    - Verify that the logs are visible in Kibana under **Discover**.
 
+## Conclusion  
+This guide sets up the ELK Stack for centralized log monitoring and adds Fleet to manage agents on other servers. With this setup, you can monitor and analyze logs from multiple servers in real-time, providing a robust platform for security monitoring and incident detection.
+
 ---
 
 ## Conclusion  
