@@ -5,6 +5,12 @@ To create a home lab using Grafana and Prometheus for monitoring the security of
 
 ---
 
+## Home-Lab Setup
+This lab is designed can be designed on top of Vmware workstation, Virtualbox or Proxmox.
+![Blue and Gold Elegant Minimalist Jewelry Promotions Business Floor Decal (150 x 120 mm) (2)](https://github.com/user-attachments/assets/f93c0cda-6551-44ce-b474-03bb955e5855)
+
+---
+
 ## Requirements
 - **Virtualization Platform**:
   - [VirtualBox](https://www.virtualbox.org/)
