@@ -103,6 +103,8 @@ Start-Service winlogbeat
 1. In the Security Onion web interface, navigate to Kibana.
 2. Search for logs from the Windows machine using its hostname or IP address.
 
+---
+
 ## Conclusion
 This guide demonstrates how to set up Security Onion as a centralized platform for monitoring security events from an Ubuntu server and a Windows machine. With this home lab, you can explore real-world log analysis, event correlation, and threat detection to enhance your cybersecurity skills.
 
