@@ -95,7 +95,7 @@ Get unstuck and complete all the tasks with detailed step-by-step videos plus
 
 Want to get started?
 
-<a href="https://learn.haxsecurity.com/services/90securitychallenge">
+<a href="https://learn.haxsecurity.com/services/securitychallenge">
   <img src="https://img.shields.io/badge/-Enroll%20Now-008CBA?&style=for-the-badge&logo=Book&logoColor=white" alt="Enroll Now"/>
 </a>
 
