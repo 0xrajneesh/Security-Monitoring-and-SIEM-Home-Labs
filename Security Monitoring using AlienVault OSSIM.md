@@ -3,7 +3,7 @@
 ## Objective
 To create a home lab using **AlienVault OSSIM** for monitoring security events from an **Ubuntu Server** and a **Windows machine**. The lab will simulate real-world security monitoring scenarios by collecting and analyzing logs and events from the connected systems.
 
---
+
 
 ## Home-Lab Setup
 
@@ -19,7 +19,7 @@ To create a home lab using **AlienVault OSSIM** for monitoring security events f
 - **NXLog**: [Official website](https://nxlog.co/products/nxlog-community-edition)
 - **Stable Internet Connection**
 
---
+
 
 ## Step-by-Step Guide
 
