@@ -64,8 +64,9 @@ Hi, I'm Rajneesh Gupta, security consultant, Coach and 2 times best-selling Auth
 
 ## Connect with Me
 
-- **LinkedIn**: [Rajneesh Gupta](https://www.linkedin.com/in/rajneeshcyber)
-- **Twitter**: [@rajneeshcyber](https://twitter.com/rajneeshcyber)
-- **YouTube Channel**: [Rajneesh Gupta](https://www.youtube.com/channel/rajneeshcyber)
+[![LinkedIn: Rajneesh Gupta](https://img.shields.io/badge/LinkedIn-Rajneesh_Gupta-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rajneeshcyber)
+[![Twitter: @rajneeshcyber](https://img.shields.io/badge/Twitter-@rajneeshcyber-blue?style=for-the-badge&logo=twitter)](https://twitter.com/rajneeshcyber)
+[![YouTube: Rajneesh Gupta](https://img.shields.io/badge/YouTube-Rajneesh_Gupta-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/rajneeshcyber)
+
 
 Feel free to connect with me on any of these platforms!
