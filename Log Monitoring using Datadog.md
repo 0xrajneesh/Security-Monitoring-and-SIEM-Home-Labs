@@ -101,7 +101,7 @@ Objective: Install the Datadog Agent on a Windows machine to forward logs to Dat
 - Open the Datadog Agent Manager from the system tray.
 - Navigate to the Log Collection tab.
 - Add event log sources:
-   - Enable logs for Application, Security, and System.
+   - Enable logs for `Application`, `Security`, and `System`.
    - Apply and save the configuration.
  
 ---
@@ -109,15 +109,15 @@ Objective: Install the Datadog Agent on a Windows machine to forward logs to Dat
 Objective: Verify and visualize logs from Ubuntu and Windows systems in Datadog.
 
 #### Step 1: Access Logs in Datadog
-Log in to your Datadog dashboard.
-Navigate to Logs > Live Tail.
-Filter logs by source or service (e.g., ubuntu or syslog).
+1. Log in to your Datadog dashboard.
+2. Navigate to Logs > Live Tail.
+3. Filter logs by source or service (e.g., `ubuntu` or `syslog`).
 #### Step 2: Create Dashboards
-Navigate to Dashboards and create a new dashboard.
-Add widgets for:
-Log streams filtered by source or severity.
-Log analytics showing trends over time.
-Save the dashboard for continuous monitoring.
+1. Navigate to Dashboards and create a new dashboard.
+2. Add widgets for:
+- Log streams filtered by source or severity.
+- Log analytics showing trends over time.
+3. Save the dashboard for continuous monitoring.
 ---
 ## Conclusion
 This guide demonstrates how to set up a home lab using Datadog for centralized log monitoring. By aggregating logs from both Ubuntu and Windows machines, you gain real-time insights into system performance and security, enabling better decision-making and proactive responses to potential issues.
