@@ -1,1 +1,1 @@
-# Home-Lab: Security Monitoring, Log Management and SIEM 
+# Home-Lab: Security Monitoring and SIEM 
