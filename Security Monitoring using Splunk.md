@@ -175,7 +175,9 @@ The home-lab set up is designed with VMware workstation.
 Get unstuck and complete all the tasks with detailed step-by-step videos plus
 
 - **Video Tutorials**: 145+ Videos with step-by-step guide.
-- **Bonuses**: 13 hands-on courses on fundamentals, Security Investigation, Malware analysis, etc.
+- **13 Hands-on course**(beginner to Medium Level): Including courses on Cybersecurity 101, IT networking, Server and Cloud, Splunk for Beginners, Endpoint Investigation, Network Investigation, Security Compliance, Offensive security
+- **90 Days Challenge**(Medium to Advanced Level): You are expected to finish 9 Hands-on Projects in 90 Days covering tools such as Splunk, ELK, Wireshark, Velociraptor, Osquery, AWS etc
+- **LifeTime Access**: Once you finish the 90-Days Challenge, you still be having access to all the modules for lifetime
 - **Join the Community**: Access our exclusive community platform to share insights, seek advice, and learn from fellow challengers.
 - **Earn Recognition**: Complete the challenge within 90 days to earn a shoutout during our Hall of Fame celebration on LinkedIn and YouTube! 🏆📣
 
