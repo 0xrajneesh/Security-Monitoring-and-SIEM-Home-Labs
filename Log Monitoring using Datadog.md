@@ -122,7 +122,7 @@ Objective: Verify and visualize logs from Ubuntu and Windows systems in Datadog.
 ## Conclusion
 This guide demonstrates how to set up a home lab using Datadog for centralized log monitoring. By aggregating logs from both Ubuntu and Windows machines, you gain real-time insights into system performance and security, enabling better decision-making and proactive responses to potential issues.
 
-  # 🌟 Ultimate Security Analyst Course🌟
+# 🌟 Ultimate Security Analyst Course🌟
 
 Get unstuck and complete all the tasks with detailed step-by-step videos plus
 
@@ -135,4 +135,6 @@ Get unstuck and complete all the tasks with detailed step-by-step videos plus
 
 Want to get started?
 
-<a href=[https://learn.haxsecurity.com/services/90securitychallenge](https://learn.haxsecurity.com/services/securitychallenge)><img src="https://img.shields.io/badge/-Enroll%20Now-008CBA?&style=for-the-badge&logo=Book&logoColor=white" /></a>
+<a href="https://learn.haxsecurity.com/services/securitychallenge">
+  <img src="https://img.shields.io/badge/-Enroll%20Now-008CBA?&style=for-the-badge&logo=Book&logoColor=white" alt="Enroll Now"/>
+</a>
