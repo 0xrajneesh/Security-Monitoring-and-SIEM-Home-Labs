@@ -4,7 +4,7 @@ This repository contains hands-on guides for setting up various **Security Monit
 
 ---
 
-## 📂 Available Labs
+## 📂 Hands-on Labs
 
 | **Lab No.** | **Lab Title**                                             | **Description**                                                                                           |
 |-------------|-----------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
