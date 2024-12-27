@@ -1,4 +1,4 @@
-# Home-Lab Setup: Grafana and Prometheus for Security Monitoring of Ubuntu Server 22.04 (Including Syslog Integration)
+# Home-Lab Setup: Grafana and Prometheus for Security Monitoring
 
 ## Objective
 To create a home lab using Grafana and Prometheus for monitoring the security of an Ubuntu Server 22.04. Additionally, configure the Ubuntu Server to send system logs (syslog) for centralized monitoring.
