@@ -49,6 +49,8 @@ To create a home lab using **AlienVault OSSIM** for monitoring security events f
 3. Configure basic settings:
 - Network interfaces.
 - Timezone and NTP settings.
+
+---
 ### Part 2: Setting Up Ubuntu Server
 Objective: Configure an Ubuntu Server to send security logs to AlienVault OSSIM.
 
@@ -79,8 +81,6 @@ sudo systemctl restart rsyslog
 ---
 ### Part 3: Setting Up Windows Machine
 Objective: Configure a Windows machine to forward event logs to AlienVault OSSIM.
-
----
 
 #### Step 1: Install the Windows Machine
 1. Create a new virtual machine using the Windows ISO.
