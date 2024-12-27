@@ -19,7 +19,7 @@ To create a home lab using **AlienVault OSSIM** for monitoring security events f
 - **NXLog**: [Official website](https://nxlog.co/products/nxlog-community-edition)
 - **Stable Internet Connection**
 
----
+--
 
 ## Step-by-Step Guide
 
