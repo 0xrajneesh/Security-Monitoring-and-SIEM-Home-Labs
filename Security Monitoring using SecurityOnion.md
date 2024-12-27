@@ -19,6 +19,7 @@ To create a home lab using Security Onion for monitoring security events from an
 
 ## Step-by-Step Guide
 
+---
 ### Part 1: Setting Up Security Onion
 **Objective**: Install and configure Security Onion to act as the central log and event monitoring platform.
 
@@ -67,7 +68,7 @@ sudo systemctl restart rsyslog
 #### Step 2: Verify Logs in Security Onion
 1. In the Security Onion web interface, navigate to Kibana.
 2. Search for logs from the Ubuntu server using its hostname or IP address.
-
+---
 ### Part 3: Setting Up Windows to Collect Events
 Objective: Configure a Windows machine to forward event logs to Security Onion.
 
