@@ -14,7 +14,8 @@ Set up a Splunk home lab on Ubuntu Server 22.04 to ingest and analyze syslogs fr
    - [Proxmox VE](https://www.proxmox.com/en/) (Free and Open Source)  
 
 2. **Resources:**  
-   - **Ubuntu Server ISO**: [Ubuntu 22.04](https://ubuntu.com/download/server)  
+    - **Ubuntu Server ISO**: [Ubuntu 22.04](https://ubuntu.com/download/server)  
+   - **Windows ISO**: [Windows Server Evaluation](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server)  
    - **Splunk Software**:  
      - [Splunk Enterprise](https://www.splunk.com/en_us/download/splunk-enterprise.html)  
      - [Splunk Universal Forwarder](https://www.splunk.com/en_us/download/universal-forwarder.html)  
@@ -23,10 +24,14 @@ Set up a Splunk home lab on Ubuntu Server 22.04 to ingest and analyze syslogs fr
        - 2 CPU cores  
        - 4 GB RAM (8 GB recommended)  
        - 40 GB disk space  
-     - Syslog Server:  
+     - Linux Server:  
        - 1 CPU core  
        - 2 GB RAM  
        - 20 GB disk space  
+     - Windows Machine:  
+       - 2 CPU cores  
+       - 4 GB RAM  
+       - 40 GB disk space  
 
 ---
 
