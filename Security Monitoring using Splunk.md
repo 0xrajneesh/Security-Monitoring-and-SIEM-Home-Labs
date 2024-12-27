@@ -1,4 +1,4 @@
-# **Creating a Home Lab Using Splunk on Ubuntu Server 22.04**
+# **Security Monitoring using Splunk**
 
 ---
 
