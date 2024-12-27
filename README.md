@@ -61,14 +61,10 @@ If you need assistance deploying these solutions, we offer the following support
 ## About Me
 
 Hi, I'm Rajneesh Gupta, security consultant, Coach and 2 times best-selling Author. I share security projects to help people to excel in security domain.
-
-## Connect with Me
-
-[![LinkedIn: Rajneesh Gupta](https://img.shields.io/badge/LinkedIn-Rajneesh_Gupta-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rajneeshcyber)
-
-[![Twitter: @rajneeshcyber](https://img.shields.io/badge/Twitter-@rajneeshcyber-blue?style=for-the-badge&logo=twitter)](https://twitter.com/rajneeshcyber)
-
-[![YouTube: Rajneesh Gupta](https://img.shields.io/badge/YouTube-Rajneesh_Gupta-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/rajneeshcyber)
+Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rajneeshcyber)
+[![X](https://img.shields.io/badge/X-black?style=for-the-badge&logo=x)](https://twitter.com/rajneeshcyber)
+[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/rajneeshcyber)
 
 
 
