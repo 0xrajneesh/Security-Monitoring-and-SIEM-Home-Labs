@@ -114,6 +114,8 @@ Objective: Configure a Windows machine to forward event logs to AlienVault OSSIM
 </Route>
 ```
 - Save the file and restart the NXLog service.
+
+---
 ### Part 4: Verify Event Collection in AlienVault OSSIM
 Objective: Ensure logs and events from Ubuntu and Windows are being collected by OSSIM.
 
