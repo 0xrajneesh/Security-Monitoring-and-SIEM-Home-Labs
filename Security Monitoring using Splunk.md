@@ -7,6 +7,14 @@ Set up a Splunk home lab on Ubuntu Server 22.04 to ingest and analyze syslogs fr
 
 ---
 
+## **Home-Lab Set up**  
+The home-lab set up is designed with VMware workstation.
+![Blue and Gold Elegant Minimalist Jewelry Promotions Business Floor Decal (150 x 120 mm)](https://github.com/user-attachments/assets/b1cc0dbb-be1f-46d2-a2c7-c4d83d5aa9c9)
+
+
+---
+
+
 ## **Requirements**  
 1. **Virtualization Platform:**  
    - [VirtualBox](https://www.virtualbox.org/) (Free)  
