@@ -76,8 +76,11 @@ sudo nano /etc/rsyslog.conf
 ```
 sudo systemctl restart rsyslog
 ```
+---
 ### Part 3: Setting Up Windows Machine
 Objective: Configure a Windows machine to forward event logs to AlienVault OSSIM.
+
+---
 
 #### Step 1: Install the Windows Machine
 1. Create a new virtual machine using the Windows ISO.
