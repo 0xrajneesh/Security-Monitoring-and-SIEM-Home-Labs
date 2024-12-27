@@ -18,7 +18,7 @@ The home-lab set up is designed with VMware workstation.
 ## **Requirements**  
 1. **Virtualization Platform:**  
    - [VirtualBox](https://www.virtualbox.org/) (Free)  
-   - [VMware Workstation Pro](https://www.vmware.com/products/workstation-pro.html) (Paid)  
+   - [VMware Workstation Pro](https://www.vmware.com/products/workstation-pro.html) (Free)  
    - [Proxmox VE](https://www.proxmox.com/en/) (Free and Open Source)  
 
 2. **Resources:**  
