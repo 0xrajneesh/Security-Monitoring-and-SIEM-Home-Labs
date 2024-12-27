@@ -1,4 +1,4 @@
-# Wazuh Security Monitoring
+# Home-Lab: Wazuh Security Monitoring
 
 ## Objective  
 To set up a Wazuh home lab on an Ubuntu server for security monitoring and extend its functionality by adding a Wazuh agent on another Ubuntu server to monitor its logs and activities.
