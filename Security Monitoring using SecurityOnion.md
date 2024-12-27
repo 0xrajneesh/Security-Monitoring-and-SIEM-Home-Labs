@@ -1,5 +1,4 @@
-# Home-Lab Setup: Security Onion to Monitor Security Events of Ubuntu Server and Windows Machine
-
+# Home-Lab Setup: Security Monitoring using SecurityOnion
 ## Objective
 To create a home lab using Security Onion for monitoring security events from an Ubuntu server and a Windows machine. This step-by-step guide covers installing Security Onion, setting up syslog collection on Ubuntu, and configuring event collection on Windows.
 
