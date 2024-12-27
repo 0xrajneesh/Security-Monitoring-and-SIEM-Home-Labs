@@ -1,4 +1,4 @@
-# Home-Lab Setup: Log Monitoring using Datadog from Ubuntu and Windows Machines
+# Home-Lab Setup: Log Monitoring using Datadog
 
 ## Objective
 To set up a home lab for centralized log monitoring using **Datadog**, configured to collect logs from an **Ubuntu Server** and a **Windows machine**. This setup will allow for real-time log aggregation, analysis, and visualization.
