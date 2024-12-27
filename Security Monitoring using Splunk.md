@@ -132,5 +132,27 @@ Set up a Splunk home lab on Ubuntu Server 22.04 to ingest and analyze syslogs fr
   ```
   index=_internal OR index=main
   ```
+
+   ### Part 3: Install Splunk Universal Forwarder on a Windows Machine
+   #### Step 1: Download and Install Splunk Universal Forwarder
+   Download the Splunk Universal Forwarder for Windows:
+   Splunk UF for Windows
+   Run the installer and follow the setup wizard:
+   Accept the license agreement.
+   Choose the installation directory.
+   Provide the Splunk server IP and receiving port (e.g., 9997).
+   #### Step 2: Add Monitored Inputs on Windows
+   Launch the Splunk Universal Forwarder Configuration utility.
+   Add directories or files to monitor (e.g., Event Logs, system logs).
+   #### Step 3: Verify Forwarding to Splunk
+   - On the Splunk server, verify that the Windows machine is forwarding logs:
+ ```
+   sudo /opt/splunk/bin/splunk list forward-server
+  ```
+   - Search for Windows logs in Splunk's Search & Reporting app:
+   ```
+   index=windows_logs
+   ```
+
   ## Conclusion
   This setup allows you to analyze syslogs from a second Ubuntu server using Splunk's powerful interface. By following this guide, you now have a functional home lab for practicing security investigations, monitoring, and analysis. Experiment with different log sources and enrich your skills further!
