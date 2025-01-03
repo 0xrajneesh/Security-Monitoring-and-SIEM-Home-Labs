@@ -3,7 +3,7 @@
 ---
 
 ## **Objective**  
-Set up a Splunk home lab on Ubuntu Server 22.04 to ingest and analyze syslogs from another Ubuntu server using the Splunk Universal Forwarder (UF).
+Setingt up a Splunk home lab on Ubuntu Server and collecting logs from Ubuntu Machine & windows machine.
 
 ---
 
