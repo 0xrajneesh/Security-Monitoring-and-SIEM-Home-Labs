@@ -3,6 +3,7 @@
 ---
 
 ## **Objective**  
+
 Set up a Splunk Home Lab on an Ubuntu Server by installing Splunk Enterprise and configuring it as the main server. Collect logs from an Ubuntu machine using the Universal Forwarder and configure it to forward syslogs and application logs. For a Windows machine, install the Splunk Universal Forwarder, enable Windows event log monitoring, and forward events to the Splunk server for centralized analysis.    
 ---
 
