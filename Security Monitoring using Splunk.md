@@ -55,28 +55,18 @@ The home-lab set up is designed with VMware workstation.
    - [VMware Workstation Pro Guide](https://www.vmware.com/products/workstation-pro/resources.html)  
    - [Proxmox VE Installation Guide](https://pve.proxmox.com/wiki/Install_Proxmox_VE)  
 
-#### **Step 2: Create and Configure Virtual Machines**
-1. Create a virtual machine for the Splunk server:
-   - OS: Ubuntu 22.04 (64-bit)  
-   - Memory: Minimum 4 GB  
-   - Hard Disk: Minimum 40 GB  
 
-2. Create a second VM for the syslog server:
-   - OS: Ubuntu 22.04 (64-bit)  
-   - Memory: Minimum 2 GB  
-   - Hard Disk: Minimum 20 GB  
-
-#### **Step 3: Install Ubuntu Server on Both VMs**
+#### **Step 2: Install Ubuntu Server on Both VMs**
 1. Install Ubuntu Server on both virtual machines:
    - Follow the standard Ubuntu Server installation steps.  
    - Install OpenSSH server for remote access.  
 
-#### **Step 4: Update Ubuntu on Both VMs**
+#### **Step 3: Update Ubuntu on Both VMs**
 1. After installation, log in to both servers and update the packages:
    ```bash
    sudo apt update && sudo apt upgrade -y
    ```
-#### **Step 5: Install Splunk on Main Server**
+#### **Step 4: Install Splunk on Main Server**
 1.  Download and install Splunk Enterprise:
   ```
   wget -O splunk.deb https://download.splunk.com/products/splunk/releases/latest/linux/splunk-latest-linux-2.6-amd64.deb
