@@ -56,11 +56,6 @@ The home-lab set up is designed with VMware workstation.
    - [Proxmox VE Installation Guide](https://pve.proxmox.com/wiki/Install_Proxmox_VE)  
 
 
-#### **Step 2: Install Ubuntu Server on Both VMs**
-1. Install Ubuntu Server on both virtual machines:
-   - Follow the standard Ubuntu Server installation steps.  
-   - Install OpenSSH server for remote access.  
-
 #### **Step 3: Update Ubuntu on Both VMs**
 1. After installation, log in to both servers and update the packages:
    ```bash
