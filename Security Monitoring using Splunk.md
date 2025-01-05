@@ -86,11 +86,11 @@ The home-lab set up is designed with VMware workstation.
  #### Step 6: Install Splunk Universal Forwarder on Syslog Server
   1. Download Splunk Universal Forwarder:
   ```
-  wget -O splunkforwarder.deb https://download.splunk.com/products/universalforwarder/releases/latest/linux/splunkforwarder-latest-linux-2.6-amd64.deb
+  wget -O splunkforwarder-9.4.0-6b4ebe426ca6-linux-amd64.deb "https://download.splunk.com/products/universalforwarder/releases/9.4.0/linux/splunkforwarder-9.4.0-6b4ebe426ca6-linux-amd64.deb"
   ```
   2. Install the Universal Forwarder:
   ```
-  sudo dpkg -i splunkforwarder.deb
+  sudo dpkg -i splunkforwarder-9.4.0-6b4ebe426ca6-linux-amd64.deb
   ```
   3. Start the Splunk Universal Forwarder and accept the license:
   ```
