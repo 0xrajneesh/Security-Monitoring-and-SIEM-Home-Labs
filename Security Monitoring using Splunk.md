@@ -71,7 +71,7 @@ The home-lab set up is designed with VMware workstation.
   ```
 2. Make splunk accesible via internet (optional)
 ```
-  nano splunk/etc/splunk-launch
+  nano /opt/splunk/etc/splunk-launch.conf
   SPLUNK_BINDIP=0.0.0.0 //add this
 ```
 3. Add port 8000 in firewall
