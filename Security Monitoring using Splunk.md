@@ -66,7 +66,6 @@ The home-lab set up is designed with VMware workstation.
   ```
   wget -O splunk-9.4.0-6b4ebe426ca6-linux-amd64.deb "https://download.splunk.com/products/splunk/releases/9.4.0/linux/splunk-9.4.0-6b4ebe426ca6-linux-amd64.deb"
   sudo dpkg -i splunk-9.4.0-6b4ebe426ca6-linux-amd64.deb
-  sudo dpkg -i splunk-9.4.0-6b4ebe426ca6-linux-amd64.deb
   cd /opt/splunk/bin
   sudo ./splunk start
   ```
